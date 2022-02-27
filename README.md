@@ -3,5 +3,6 @@
 ## Links
 
 Telegram channels:
-https://t.me/totkotkras
-https://t.me/itarmyofukraine2022
+
+- https://t.me/totkotkras
+- https://t.me/itarmyofukraine2022
