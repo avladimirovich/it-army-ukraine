@@ -19,7 +19,7 @@
 - Докер. Виконати команду `https://raw.githubusercontent.com/SecorD0/utils/main/installers/docker.sh`
 - Screen. Виконати команду: `sudo apt install screen`
 
-## 3. Тепер до дії. Але логіка така:
+## 3. Тепер до дії. Логіка така:
 
 1. Почитаємо нову сессію. Пишемо `screen -S {name}`, де:
    - `name` - назва сессії, наприклад `123`.
